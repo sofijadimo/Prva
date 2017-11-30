@@ -12,6 +12,7 @@ using namespace std;
 int fa (int a);
 int main()
 {
+    cout <<"THIS ONE!" << endl;
 int g,l;
 cin>>g;
 l=fa(g);
